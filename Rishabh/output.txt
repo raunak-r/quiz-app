@@ -1,0 +1,18 @@
+FITB1 Fillinthis __ blank,empty
+FITB3 new chem is __,lit
+FITB6 __ is done,everything
+TF1 Ques chem1,F
+TF2 chem ques,F
+TF3 new phy ques,T
+TF5 chem t/f ques,F
+TF4 new phy ,F
+MCQ Ques 1 F = what is correct?,ma
+MCQ Ques 3 choose option,c
+MCQ Ques 4 Phy 1,opt b
+MCQ phy mcq 1,2
+FITB __ is phy ques,This
+TF5 chem tf ques,F
+My earphones are __,okay
+TF5,F
+FITB phy is __,cool
+mcq phy is ,nice

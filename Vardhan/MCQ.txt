@@ -1,0 +1,11 @@
+C,MCQ Ques 1 F = what is correct?,m,vt,u + at,ma,ma
+P,MCQ Ques 2 choose one option,hey,hi,yay,yo,hi
+C,MCQ Ques 3 choose option,a,b,c,d,c
+P,MCQ Ques 4 Phy 1,opt a, b,opt c,opt d,opt b
+P,MCQ Ques 5 Phy 1,opt , b,opt , d,opt b
+P,MCQ Ques 6  1,opt a,opt b,opt c, d,opt b
+P,MCQ Ques 7 choose one option,hey,hi,yay,yo,hi
+P,MCQ  Phy 8,opt a,opt b,opt c,opt d,opt b
+P,MCQ Ques 9 choose one option,hey,g,y,yo,g
+P,MCQ Ques 10 Phy 1,opt a,opt b,opt c, d, b
+P,MCQ 11 1,a,opt b,opt c,opt d, b

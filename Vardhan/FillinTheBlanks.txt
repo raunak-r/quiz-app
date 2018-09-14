@@ -1,0 +1,7 @@
+P,FITB1 Fillinthis __ blank,empty
+C,FITB2 __ is my Earphone,Philips
+C,FITB3 new chem is __,lit
+P,FITB4 __ is my laptop's name,harryPotter
+P,FITB5 f = ma is given by __,newton
+P,FITB6 __ is done,everything
+C,the atomic number of Hydrogen is ___,1

@@ -1,0 +1,18 @@
+P,F,FITB1 Fillinthis __ blank,,,,,empty
+C,F,FITB3 new chem is __,,,,,lit
+P,F,FITB6 __ is done,,,,,everything
+C,T,TF1 Ques chem1,T,F,,,F
+C,T,TF2 chem ques,T,F,,,F
+P,T,TF3 new phy ques,T,F,,,T
+C,T,TF5 chem t/f ques,T,F,,,F
+P,T,TF4 new phy ,T,F,,,F
+C,M,MCQ Ques 1 F = what is correct?,m,vt,u + at,ma,ma
+C,M,MCQ Ques 3 choose option,a,b,c,d,c
+P,M,MCQ Ques 4 Phy 1,opt a, b,opt c,opt d,opt b
+P,M,MCQ phy mcq 1,1,2,3,4,2
+P,F,FITB __ is phy ques,,,,,This
+C,T,TF5 chem tf ques,T,F,,,F
+C,F,My earphones are __,,,,,okay
+C,T,TF5,T,F,,,F
+P,F,FITB phy is __,,,,,cool
+P,M,mcq phy is ,1,2,nice,3,nice

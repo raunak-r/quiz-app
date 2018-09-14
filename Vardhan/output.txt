@@ -1,0 +1,4 @@
+MCQ Ques 1 F = what is correct?,m,vt,u + at,ma
+MCQ Ques 6  1,opt a,opt b,opt c, d
+MCQ Ques 10 Phy 1,opt a,opt b,opt c, d
+MCQ 11 1,a,opt b,opt c,opt d
